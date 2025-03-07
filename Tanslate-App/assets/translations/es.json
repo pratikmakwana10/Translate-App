@@ -1,0 +1,10 @@
+{
+  "hello": "Hola",
+  "demo_translate": "Traducción de demostración",
+  "This is a demo app for translating languages.": "Esta es una aplicación de demostración para traducir idiomas.",
+  "Select Language": "Seleccionar idioma",
+  "Login": "Iniciar sesión",
+  "Logged In": "Sesión iniciada",
+  "Logout": "Cerrar sesión",
+  "Logged Out": "Sesión cerrada"
+}

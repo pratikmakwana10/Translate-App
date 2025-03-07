@@ -1,0 +1,10 @@
+{
+  "hello": "Hello",
+  "demo_translate": "Demo Translate",
+  "This is a demo app for translating languages.": "This is a demo app for translating languages.",
+  "Select Language": "Select Language",
+  "Login": "Login",
+  "Logged In": "Logged In",
+  "Logout": "Logout",
+  "Logged Out": "Logged Out"
+}

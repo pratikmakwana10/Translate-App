@@ -1,0 +1,10 @@
+{
+  "hello": "नमस्ते",
+  "demo_translate": "डेमो अनुवाद",
+  "This is a demo app for translating languages.": "यह भाषाओं के अनुवाद के लिए एक डेमो ऐप है।",
+  "Select Language": "भाषा चुनें",
+  "Login": "लॉगिन",
+  "Logged In": "लॉगिन कर लिया गया है",
+  "Logout": "लॉगआउट",
+  "Logged Out": "लॉगआउट कर दिया गया है"
+}
